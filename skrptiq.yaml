@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "b278f83d-43e0-4a13-964e-6a9fbb299f65"
+name: "planning-playbook"
+display_name: "Sprint Ceremony Playbook"
+description: "Guide for running effective sprint ceremonies"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-planning-playbook"
+category: "shared"
+tags:
+  - "shared"
+  - "document"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 1
+  assets: 0
+  total: 1
