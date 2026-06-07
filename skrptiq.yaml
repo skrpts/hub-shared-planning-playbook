@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "b278f83d-43e0-4a13-964e-6a9fbb299f65"
+id: "773c7f2d-bc08-4cef-b880-18222cd92fcf"
 name: "planning-playbook"
 display_name: "Sprint Ceremony Playbook"
 description: "Guide for running effective sprint ceremonies"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
