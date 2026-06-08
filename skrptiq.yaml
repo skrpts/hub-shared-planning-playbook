@@ -3,7 +3,7 @@ id: "773c7f2d-bc08-4cef-b880-18222cd92fcf"
 name: "planning-playbook"
 display_name: "Sprint Ceremony Playbook"
 description: "Guide for running effective sprint ceremonies"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "document"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
